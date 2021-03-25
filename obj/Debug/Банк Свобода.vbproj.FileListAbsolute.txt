@@ -1,0 +1,27 @@
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\bin\Debug\Банк Свобода.exe
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\bin\Debug\Банк Свобода.pdb
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\bin\Debug\Банк Свобода.xml
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\Банк_Свобода.Form1.resources
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\Банк_Свобода.Resources.resources
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\Банк Свобода.vbproj.GenerateResource.Cache
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\Банк Свобода.exe
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\Банк Свобода.xml
+C:\Users\rasso\AppData\Local\Temporary Projects\Банк Свобода\obj\Debug\Банк Свобода.pdb
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.exe
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.xml
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.pdb
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\bin\Debug\Банк Свобода.exe
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\bin\Debug\Банк Свобода.pdb
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\bin\Debug\Банк Свобода.xml
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\ResolveAssemblyReference.cache
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк_Свобода.Form1.resources
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк_Свобода.Resources.resources
+G:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.vbproj.GenerateResource.Cache
+F:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.exe
+F:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.xml
+F:\Техникум\Проекты\Практика Карлов 2020\Индвид\VBA\Банк Свобода\obj\Debug\Банк Свобода.pdb
+D:\Техникум\Проекты\Практика Карлов 2020\Индвид учеб\VBA\Банк Свобода\bin\Debug\Банк Свобода.exe.config
+D:\Техникум\Проекты\Практика Карлов 2020\Индвид учеб\VBA\Банк Свобода\obj\Debug\Банк Свобода.exe
+D:\Техникум\Проекты\Практика Карлов 2020\Индвид учеб\VBA\Банк Свобода\obj\Debug\Банк Свобода.xml
+D:\Техникум\Проекты\Практика Карлов 2020\Индвид учеб\VBA\Банк Свобода\obj\Debug\Банк Свобода.pdb
